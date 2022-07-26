@@ -1,3 +1,5 @@
+//author sanjit sahoo
+//contributer drishtant behera
 int led = 13;
 int sensor = 8;
 int buzzer = 12;
