@@ -1,5 +1,5 @@
-//author sanjit sahoo
-//contributer drishtant behera
+//Not all code made by me some code is taken form the web
+
 int led = 13;
 int sensor = 8;
 int buzzer = 12;
